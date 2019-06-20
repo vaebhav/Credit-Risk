@@ -16,5 +16,5 @@ Extract from the dataset information section : "This research aimed at the case 
 
 # References -
 
-[a link] (http://treasurytoday.com/2003/11/credit-risk-modelling-techniques)
+http://treasurytoday.com/2003/11/credit-risk-modelling-techniques
 
