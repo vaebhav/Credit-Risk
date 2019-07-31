@@ -30,7 +30,7 @@ def feature_scaling_log(x):
         return np.log(x)
 
 
-credit_card_fraud_file = "/Users/vaebhav/Documents/Python/Machine Learning/Credit Risk/creditcardclients_default.xls"
+credit_card_fraud_file = "creditcardclients_default.xls"
 
 credit_card_data = pd.read_excel(credit_card_fraud_file,header=1)
 
